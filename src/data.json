@@ -1,0 +1,136 @@
+{
+   "results":  [
+      {
+        "image": "https://images.hellogiggles.com/uploads/2016/03/25094608/RossDur_Featured.jpg",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "?מה היה שמו של הקוף של רוס",
+        "correct_answer": "מרסל",
+        "incorrect_answers": [
+          "אסטל",
+          "מייקל",
+          "קלנקרס"
+        ]
+      },
+      {
+        "image": "https://images1.ynet.co.il/PicServer4/2014/09/21/5599295/5599086099378640360no.jpg",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "מה היה שמו הממוצא של הבחור שרוס טען שהוא האקס המיתולוגי של פיבי?",
+        "correct_answer": "ויקראם",
+        "incorrect_answers": [
+          "ויקטור",
+          "דייויד",
+          "מייק"
+        ]
+      },
+      {
+        "image": "https://img.mako.co.il/2018/06/17/friendss9e17800x450_i.jpg",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "?איזה מהבאים אינו שם של אחות של ג'ואי",
+        "correct_answer": "מרי אן",
+        "incorrect_answers": [
+          "מרי אנג'לה",
+          "מרי תרז",
+          "דינה"
+        ]
+      },
+      {
+        "image": "https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/5ebc4d0175e461001e95d26c.jpg",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "?מה היה שמו של העוזר החתיך של רייצ'ל",
+        "correct_answer": "טאג ג'ונס",
+        "incorrect_answers": [
+          "טאג מורגן",
+          "טאג מארקסון",
+          "טאג ג'קסון"
+        ]
+      },
+      {  
+        "image": "https://www.thelist.com/img/gallery/things-friends-fans-never-noticed-about-rachel-green/l-intro-1621789472.jpg",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "מה הקשר בין אשתו השניה של רוס אמילי ורייצ'ל",
+        "correct_answer": "אמילי היא אחיינית של הבוס של רייצ'ל",
+        "incorrect_answers": [
+          "אין בניהן שום קשר קודם",
+          "אמילי היא חברה של חבר מהעבודה של רייצ'ל",
+          "אמילי היא אחותו של קולגה של רייצ'ל"
+        ]
+      },
+      {    
+        "image": "https://pbs.twimg.com/profile_images/1017221140677349376/dhSnvw-1_400x400.jpg", 
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "?איזה שם לא הופיע בשום רשימת סלבס שרוס יכול היה לשכב איתן בלי שרייצ'ל תכעס",
+        "correct_answer": "פמלה אנדרסון",
+        "incorrect_answers": [
+          "וינונה ריידר",
+          "אומה תורמן",
+          "איזבלה רוסיליני"
+        ]
+      },
+      {  
+        "image": "https://media2.fdncms.com/portmerc/imager/u/original/32754501/1618252656-asi_eran_y_asi_son_matt_leblanc_y_matthew_perry_j.jpgg",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "בן כמה היה צ'נדלר כשנגע לראשונה בחזה של בחורה",
+        "correct_answer": "19",
+        "incorrect_answers": [
+          "14",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "image": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/1/6/5/3165080-46.jpg",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "מי מהשמות הבאים לא היה שם של מישהו שמוניקה יצאה איתו",
+        "correct_answer": "רודריגו",
+        "incorrect_answers": [
+          "חוליו",
+          "אלן",
+          "פיט"
+        ]
+      },
+      {
+        "image": "https://medias.timeout.co.il/www/uploads/2019/12/maxresdefault-2-1140x641.jpg",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "מה מהבאים אינו שיר מקורי של פיבי",
+        "correct_answer": "פסטה ואנשובי",
+        "incorrect_answers": [
+          "אנשי הפלפל",
+          "חתול מסריחול",
+          "כולם שירים שלה"
+        ]
+      },
+      { 
+        "image": "https://www.looper.com/img/gallery/nearly-26-think-this-ross-moment-on-friends-went-too-far/intro-1628259235.jpg",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "לאיזה מאכל מהבאים רוס אלרגי",
+        "correct_answer": "קיווי",
+        "incorrect_answers": [
+          "עוף",
+          "ענבים",
+          "גליה"
+        ]
+      },
+      { 
+        "image": "https://www.looper.com/img/gallery/nearly-26-think-this-ross-moment-on-friends-went-too-far/intro-1628259235.jpg",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "סוף",
+        "correct_answer": "סוף",
+        "incorrect_answers": [
+          "סוף",
+          "סוף",
+          "סוף"
+        ]
+      }
+    ]
+  }

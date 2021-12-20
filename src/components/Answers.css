@@ -1,0 +1,27 @@
+.answers-container {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.answers-container > button {
+    margin: 0;
+    height: 10vh;
+    width: 100%;
+    border: 1px solid #ccc;
+    text-align: right;
+    font-size: 3vh;
+}
+
+.before-click {
+    background-color: rgb(240, 240, 240); 
+}
+
+.correct-click {
+    background-color: rgb(19, 224, 112);
+}
+
+.incorrect-click {
+    background-color: rgb(224, 77, 19);
+}

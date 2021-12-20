@@ -1,0 +1,29 @@
+.photo {
+    object-fit: cover;
+}
+
+h2 {
+    font-size: 2.7vh;
+    margin: 1rem 1rem;
+  }
+
+  .end-container {
+      width: 100%;
+      position: absolute;
+      left: 0;
+      bottom: 10%;
+  }
+  .end-container > p {
+    font-size: 3vh;
+  }
+
+  .end-container > button {
+     width: 80%;
+     height: 50px;
+     border: none;
+     padding: 1rem;
+     color: #fff;
+     background-color: rgb(37, 175, 37);
+     font-size: 1.2rem;
+  }
+  
